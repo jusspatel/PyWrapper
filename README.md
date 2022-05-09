@@ -8,3 +8,6 @@ A GUI Wrapper around Pyinstaller. This project isn't anything serious, and was j
 
 # Demo
 
+<p align="center">
+  <img src = "https://github.com/jusspatel/PyWrapper/blob/main/demo.gif">
+</p>
