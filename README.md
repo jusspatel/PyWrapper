@@ -18,7 +18,6 @@ A GUI Wrapper around Pyinstaller. This project isn't anything serious, and was j
 - All the selected data files will be stored in a subfolder in `dist` called `assets`. Kindly extract those files out into the `dist` folder for the programme to run.
 
 <br><br><br><br><br><br>
-
 ## Installation :
 - Download this repository as `zip`, and extract all the files to the same folder.
 - Run the setup file, choose where you want to keep the program files and grant it administrative permission when prompted.
