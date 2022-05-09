@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src = "https://github.com/jusspatel/PyWrapper/blob/main/pywraplogo.png">
+  <img width="300" height="300" src = "https://github.com/jusspatel/PyWrapper/blob/main/pywraplogo.png">
 </p>
 
 # PyWrapper
