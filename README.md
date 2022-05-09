@@ -8,6 +8,12 @@ A GUI Wrapper around Pyinstaller. This project isn't anything serious, and was j
 
 # Demo
 
-<p align="center">
-  <img src = "https://github.com/jusspatel/PyWrapper/blob/main/demo.gif">
-</p>
+
+ <img align = "left" width = 500 height = 450 src = "https://github.com/jusspatel/PyWrapper/blob/main/demo.gif">
+ 
+## Some things to be noted :
+
+- If you have a slow computer, the CONVERT PY TO EXE Button might take sometime to respond, so don't spam click the button. Just click on it once, and wait for some seconds for the button text to change to 'Processing...' .
+- If you have an icon file selected , please also add that in the Additional files option.
+- All the selected data files will be stored in a subfolder in `dist` called `assets`. Kindly extract those files out into the `dist` folder for the programme to run.
+ 
